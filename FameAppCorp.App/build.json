@@ -1,0 +1,11 @@
+{
+     "android": {
+      "release": {
+        "keystore": "c:\\dev\\jd-release-key.keystore",
+        "storePassword": "B@stieN_2018!",
+        "alias": "android-key",
+        "password": "B@stieN_2018!",
+        "keystoreType": ""
+      }
+     }
+ }
